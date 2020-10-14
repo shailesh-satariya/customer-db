@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "1234",
+  "db": "mongodb://localhost/customer-db-tests",
+  "port": "3900"
+}

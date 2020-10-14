@@ -1,0 +1,6 @@
+{
+  "apiUrl": "http://localhost:3900/graphql",
+  "subscriptionUrl": "ws://localhost:3900/graphql",
+  "appName": "Customer DB Demo",
+  "appVersion": "1.0.0"
+}
